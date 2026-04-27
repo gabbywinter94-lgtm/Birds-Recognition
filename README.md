@@ -34,3 +34,5 @@ AMERICAN GOLDFINCH,
 AMERICAN KESTREL
 
 There is 5 images in each class that I used to train which I trained in 35 epochs
+
+[Video link](https://drive.google.com/file/d/1MNAWnN8_vcUJ9di2aqcrf3idBaqSxLve/view?usp=share_link)
